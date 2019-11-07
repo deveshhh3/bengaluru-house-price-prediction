@@ -1,4 +1,4 @@
-# bengaluru-house-price-prediction
+# bengaluru house price prediction machine hack
 https://www.machinehack.com/course/predicting-house-prices-in-bengaluru/
 
 
